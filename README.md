@@ -7,9 +7,10 @@
 
 - 👯 I’m looking to collaborate on **Cloud native projects**
 
-- 🤝 I’m looking for help with **DevOps, Azure & AWS Cloud**
+- 🤝 I’m looking for help with **DevOps, Azure & AWS Cloud, Linux, Docker, Kubernetes, Jenkins,Terraform**
 
 - 💬 Ask me about **Devops**
+- ⚡ Fact **"Remember.......... Why you started!!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
